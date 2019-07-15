@@ -1,5 +1,12 @@
 # Employee Management API
 
+Django admin panel can be accessed through the path '{host}/admin'. Default user and password are admin and admin.
+Accessing the endpoint /api/employees/ via a browser will show an interface to interact with the API.
+
+## Documentation
+
+Swagger documentation can be found at https://app.swaggerhub.com/apis/lfrefatti6/employee/1.0.0
+
 ## Requirements
 
   * pipenv
